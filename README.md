@@ -7,7 +7,7 @@
 
 <h3 align="center">My Profile</h3>
 <img align="right" alt="Coding" width="400" src="https://devloft.co.uk/images/main.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightcrawler06&label=Profile%20views&color=0e75b6&style=flat" alt="nightcrawler06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euel-villavicencio&label=Profile%20views&color=0e75b6&style=flat" alt="euel-villavicencio" /> </p>
  
  💫 About Me  
  💬 Ask me about **React, Python, Deluge, PHP, JavaScript**  
@@ -26,10 +26,10 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nightcrawler06&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=nightcrawler06&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nightcrawler06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nightcrawler06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=euel-villavicencio&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=euel-villavicencio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=euel-villavicencio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euel-villavicencio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
